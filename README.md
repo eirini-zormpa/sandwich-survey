@@ -8,13 +8,5 @@ Thank you for taking part in the super sandwich survey! This repository will be 
 - A csv file which is used to log a new sandwich that is not currently in the sandwich database 
 - A instructions file which explains features of this csv file
 - A recipe file containing recipes for the example sandwiches
+- A FAQ file for the app
 
-## Information about the app
-
-You will log your detailed sandwich activities in the app provided.
-This repository is only for logging new sandwich sightings, ones that are not in the app.
-Please find common FAQs for the app below:
-
-- FAQ1
-- FAQ2
-- FAQ3
