@@ -1,4 +1,4 @@
-# Super Sandwich Survey
+# The Ultimate Sandwich Survey
 
 Sandwiches are a staple part of many people’s diets, particularly in western culture. However, little data exists on sandwich eating habits today. 
 
